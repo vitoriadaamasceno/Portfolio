@@ -1,2 +1,5 @@
-# Portfolio
-Portfolio 
+#Meu portfolio
+Tecnologias utilizadas
+- HTML
+- CSS
+- JS
