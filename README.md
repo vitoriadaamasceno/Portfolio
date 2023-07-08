@@ -1,4 +1,4 @@
-    Meu portfolio
+## Meu portfolio
 Tecnologias utilizadas
 - HTML
 - CSS
